@@ -1,4 +1,4 @@
-# Catch-Arcade-Game
+# Catching-Arcade-Game
 
 The objective is to catch falling boxes with a controllable basket. As the game progresses, boxes will fall faster and more frequently.
 
