@@ -23,7 +23,7 @@ window so that the whole VGA pixel buffer is visible.
 7. Move this window to the left of the screen.
 8. On the right tab, scroll down to the first “PS/2 keyboard or mouse” window.
 
-![me] (https://github.com/yili288/Catch-Arcade-Game/blob/main/Game-demo%20(1).gif =250x250)
+![Alt text] (https://github.com/yili288/Catch-Arcade-Game/blob/main/Game-demo%20(1).gif =250x250)
 
 Game play:
 1. Click “continue”.
